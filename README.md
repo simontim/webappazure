@@ -1,2 +1,2 @@
 # webappazure
-prova per contihuous deployment su app service di azure
+Repository per provare la funzionalità di build automatica su app service di azure. 
